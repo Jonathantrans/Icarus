@@ -1,7 +1,7 @@
 Welcome to Jonathan Trans's Project: Icarus. \
 We are excited to see you here! 😊 
 
-I am currently working under UC Davis Professor Ali A. Dad-del. We are restructuring the MAT22AL (Linear Algebra Computer Laboratory) coursework website through front-end development tools including: PreTexT, XML, LaTex, HTML, CSS, and Python. The new website is polished with a pleasurable user interface, alongside with new multitasking options that will eventually be able to connect via UC Davis lab username and sign-in options. Throughout this process, I built web applications in an agile and iterative way using agile methodologies and Git/Github as a full stack developer. 
+Icarus is a tool and platform to analyze pictures of patients who are concerned about skin cancer, acne, and other dermatology problems, detecting whether or not they have it and the spread of the skin problem if they do. We, at Icarus, want to bring out a new product to the public for social good through machine learning and introduce an easier way to interact with dermatologist. This project has yet 
 
 Tools: HTML, CSS, React Native, Swift, C++, Git/Github, Python (Matplotlib, PyTorch, Pandas, Tensorflow), and more to be added...👻
 
