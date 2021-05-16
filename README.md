@@ -8,9 +8,9 @@ Tools: HTML, CSS, React Native, Swift, C++, Git/Github, Python (Matplotlib, PyTo
 # Link(s) : 
 LinkedIn: https://www.linkedin.com/in/jonathantrans/ \
 Personal Website: https://jonathantrans.github.io/ \
-Project Website: TBA
+Icarus: TBA
 
-The PreTeXt Guide 😎
+Icarus 😎
 =================
 
 PDF and HTML versions of this guide are available at the [PreTeXt](https://pretextbook.org) site in the Documentation area.
