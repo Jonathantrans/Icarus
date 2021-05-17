@@ -1,4 +1,4 @@
-#Icarus
+# Icarus
 Welcome to Jonathan Trans's Project: Icarus. \
 We are excited to see you here! 😊 
 
